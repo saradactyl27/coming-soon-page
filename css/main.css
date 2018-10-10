@@ -1,0 +1,19 @@
+* {
+  font-family: 'IBM Plex Mono', monospace;
+}
+
+h1 {
+  font-family: 'Open Sans', sans-serif;
+}
+
+main {
+  height: 80vh;
+}
+
+a {
+  color: black;
+}
+
+.boxed {
+  border: 4px double #000;
+}
